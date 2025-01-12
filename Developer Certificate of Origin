@@ -65,3 +65,5 @@ By making a contribution to this project, I certify that:
 
 </body></html>
 ------MultipartBoundary--74wrXUpwcZAoPMCZJArmMpJg35gPV9ydmpekfpqT7E------
+git commit --amend -s
+git rebase --continue
